@@ -52,11 +52,9 @@ This project includes:
 
 ## Dashboard
 
-Open the interactive dashboard here:
+View the interactive dashboard here:
 
-`dashboard/index.html`
-
-Or view the preview below:
+[Open Interactive Dashboard](https://josephwong333.github.io/sdg-education-health-progress-analysis/dashboard/)
 
 ![Dashboard Preview](images/dashboard_preview.png)
 
